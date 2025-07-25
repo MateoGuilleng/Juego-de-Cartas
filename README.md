@@ -32,7 +32,9 @@ Contiene el método principal (`main`). Aquí se ejecuta el flujo del juego: se 
 
 ## Diagrama de Flujo
 
-![diagrama de flujo](public/diagrama de flujo.svg)
+![diagrama](public/capt1.jpg)
+
+![diagram](public/capt2.jpg)
 
 ## Ejemplo de Salida
 
